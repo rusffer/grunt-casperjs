@@ -41,8 +41,8 @@
     "node": ">= 0.8.0"
   },
   "dependencies": {
-    "phantomjs": "~1.9.1",
-    "casperjs": "1.1.0-beta3"
+    "phantomjs": "~2.1.1",
+    "casperjs": "1.1.0-beta4"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.1.1",
